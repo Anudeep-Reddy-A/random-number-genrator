@@ -1,0 +1,27 @@
+body{
+    padding-top: 50px;
+    text-align: center;
+}
+#btn{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 50px;
+    padding: 10px 20px;
+    border: 5px dotted chartreuse;
+    background-color: black;
+    color: chartreuse;
+    transition: background-color 0.3s;
+    cursor: pointer;
+    
+}
+#btn:hover{
+    background-color: chartreuse;
+    color: black;
+}
+
+#label{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
